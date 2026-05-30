@@ -1,4 +1,4 @@
-LAB 2 — Intro to JavaScript
+Intro to JavaScript
 
 1. Demonstrated the difference between var, let and const with examples of scope and reassignment.
 2. Created regular functions and arrow functions to show different ways of defining reusable logic.
